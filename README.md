@@ -79,11 +79,6 @@ The project was tested manually by running the program and entering the inputs b
 
 To repeat a test, delete `contacts.json` first so you start with an empty contact book.
 
-## Screenshots
-
-| Adding contacts | List and search | Edit and view |
-|---|---|---|
-| ![add](screenshots/add_contact.png) | ![list](screenshots/list_and_search.png) | ![edit](screenshots/edit_and_view.png) |
 
 ## Known Limitations
 
